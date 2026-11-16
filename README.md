@@ -1,63 +1,105 @@
-<h1 align="center">Hi, I'm Ebin Thomas 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F172A,100:3B82F6&section=header" alt="">
 
-<p align="center">
-  CS undergrad at <b>IIIT Kottayam</b> (Class of 2028) · Full-stack developer · DSA enthusiast<br>
-  I build web platforms that real people use, from campus tools to hackathon projects.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/ebin-thomas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/u/ebin10"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="mailto:ebinthomas1810@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<a href="https://github.com/ebinthomas06">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&duration=3000&pause=1500&color=3B82F6&center=true&vCenter=true&width=600&height=60&lines=Ebin+Thomas" alt="Ebin Thomas">
+</a>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=Full-stack+developer;Backend+engineering;Building+things+people+actually+use" alt="Tagline">
 
-## 🚀 Featured projects
+<br>
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[RepoRadar](https://github.com/ebinthomas06/REPO-NAME)** | Recommends open-source issues by profiling your owned and starred GitHub repos. Scheduled GitHub Actions pipelines score issues on freshness, repo health, discussion activity and open-PR collisions. | Next.js, TypeScript, PostgreSQL, Prisma, Auth.js |
-| **[FeastOn](https://github.com/ebinthomas06/REPO-NAME)** | Digital mess coupon system used by **3,000+ students**. Google OAuth, role-based access (Student/Admin/Volunteer) and QR-scan attendance. | React 19, Express, Node.js, PostgreSQL |
-| **[Super League](https://github.com/ebinthomas06/REPO-NAME)** | Football platform for IIIT Kottayam: fixtures, standings, player profiles and fantasy predictions. I'm on the backend core team. | Next.js, TypeScript, Supabase |
+Computer Science undergraduate at **IIIT Kottayam**, Class of 2028.
+<br>
+I build web platforms for real users, from campus tools to hackathon projects.
 
-## 🏆 Highlights
+<br>
 
-- 🥇 **Best Build Award**, Realm Hack '26 (national hackathon): offline Android app using on-device computer vision to generate tamper-evident wage quotes for gig workers
-- 🌍 **Global Nominee**, NASA Space Apps Challenge 2025: N-Large, a web platform for visualizing gigapixel-scale space imagery
-- 🎓 CGPA **9.83 / 10** at IIIT Kottayam
+<a href="https://linkedin.com/in/ebin-thomas"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://leetcode.com/u/ebin10"><img src="https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"></a>
+<a href="mailto:ebinthomas1810@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-## 🛠 Tech stack
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+<br>
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+## Selected work
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/ebinthomas06/REPO-NAME">RepoRadar</a></h3>
+      <sub>Open-source issue discovery</sub>
+      <p>Recommends issues by profiling the repositories you own and star. Scheduled pipelines score issues on freshness, repo health, discussion activity and open-PR collisions.</p>
+      <sub><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Prisma</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/ebinthomas06/REPO-NAME">FeastOn</a></h3>
+      <sub>Digital mess coupon system</sub>
+      <p>Used by <b>3,000+ students</b> at IIIT Kottayam. Google OAuth, role-based access for students, admins and volunteers, and QR-scan attendance.</p>
+      <sub><code>React</code> <code>Express</code> <code>Node.js</code> <code>PostgreSQL</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/ebinthomas06/REPO-NAME">Super League</a></h3>
+      <sub>Campus football platform</sub>
+      <p>Fixtures, standings, player profiles and fantasy predictions. I'm on the backend core team, building validated and rate-limited APIs.</p>
+      <sub><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code></sub>
+    </td>
+  </tr>
+</table>
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
+## Recognition
 
-## 📊 GitHub stats
+**Best Build Award**, Realm Hack '26
+<br>
+<sub>National hackathon. An offline Android app that uses on-device computer vision to generate tamper-evident wage quotes for gig workers.</sub>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ebinthomas06&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebinthomas06&layout=compact&theme=transparent&hide_border=true" alt="Top languages">
-</p>
+**Global Nominee**, NASA Space Apps Challenge 2025
+<br>
+<sub>N-Large, a web platform for processing and visualizing gigapixel-scale space imagery.</sub>
 
----
+## Stack
 
-<p align="center">Always up for open-source contributions, hackathons and interesting collaborations. Say hi! 👋</p>
+<div>
+
+![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![C++](https://img.shields.io/badge/C++-0F172A?style=flat-square&logo=cplusplus&logoColor=00599C)
+![SQL](https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=postgresql&logoColor=4479A1)
+
+![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=009688)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248)
+![Prisma](https://img.shields.io/badge/Prisma-0F172A?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=flat-square&logo=supabase&logoColor=3ECF8E)
+
+![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F172A?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0F172A?style=flat-square&logo=googlecloud&logoColor=4285F4)
+
+</div>
+
+## Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ebinthomas06&show_icons=true&hide_border=true&bg_color=0F172A&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&border_radius=10" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebinthomas06&layout=compact&hide_border=true&bg_color=0F172A&title_color=3B82F6&text_color=C9D1D9&border_radius=10" alt="Top languages">
+
+</div>
+
+<br>
+
+<div align="center">
+  <sub>Open to open-source contributions, hackathons and interesting collaborations.</sub>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:3B82F6,100:0F172A&section=footer&reversal=true" alt="">
