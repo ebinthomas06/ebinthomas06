@@ -16,7 +16,7 @@ I build web platforms for real users, from campus tools to hackathon projects.
 
 <br>
 
-<a href="https://linkedin.com/in/ebin-thomas"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/ebin-thomas-4a7452326/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:ebinthomas1810@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
@@ -28,22 +28,25 @@ I build web platforms for real users, from campus tools to hackathon projects.
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/ebinthomas06/REPO-NAME">RepoRadar</a></h3>
+      <h3><a href="https://reporadar.ebinthomas.dev">RepoRadar</a></h3>
       <sub>Open-source issue discovery</sub>
       <p>Recommends issues by profiling the repositories you own and star. Scheduled pipelines score issues on freshness, repo health, discussion activity and open-PR collisions.</p>
       <sub><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Prisma</code></sub>
+      <br><sub><a href="https://reporadar.ebinthomas.dev">Live</a> · <a href="https://github.com/ebinthomas06/RepoRadar">Source</a></sub>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/ebinthomas06/REPO-NAME">FeastOn</a></h3>
+      <h3><a href="https://feaston.iiitkottayam.ac.in">FeastOn</a></h3>
       <sub>Digital mess coupon system</sub>
       <p>Used by <b>3,000+ students</b> at IIIT Kottayam. Google OAuth, role-based access for students, admins and volunteers, and QR-scan attendance.</p>
       <sub><code>React</code> <code>Express</code> <code>Node.js</code> <code>PostgreSQL</code></sub>
+      <br><sub><a href="https://feaston.iiitkottayam.ac.in">Live</a> · <a href="https://github.com/ebinthomas06/FeastOn">Source</a></sub>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/ebinthomas06/REPO-NAME">Super League</a></h3>
+      <h3><a href="https://super-league.pages.dev">Super League</a></h3>
       <sub>Campus football platform</sub>
       <p>Fixtures, standings, player profiles and fantasy predictions. I'm on the backend core team, building validated and rate-limited APIs.</p>
       <sub><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code></sub>
+      <br><sub><a href="https://super-league.pages.dev">Live</a> · <a href="https://github.com/ebinthomas06/super-league">Source</a></sub>
     </td>
   </tr>
 </table>
@@ -101,7 +104,7 @@ I build web platforms for real users, from campus tools to hackathon projects.
 
 **Open to Summer 2027 AI/ML internships and research collaborations.**
 
-<a href="mailto:ebinthomas1810@gmail.com">Email me</a> · <a href="https://linkedin.com/in/ebin-thomas">Connect on LinkedIn</a>
+<a href="mailto:ebinthomas1810@gmail.com">Email me</a> · <a href="https://www.linkedin.com/in/ebin-thomas-4a7452326/">Connect on LinkedIn</a>
 
 </div>
 
