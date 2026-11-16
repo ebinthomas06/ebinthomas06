@@ -10,10 +10,6 @@
 
 <br>
 
-Computer Science undergraduate at **IIIT Kottayam**, Class of 2028.
-<br>
-I build web platforms for real users, from campus tools to hackathon projects.
-
 <br>
 
 <a href="https://www.linkedin.com/in/ebin-thomas-4a7452326/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -22,6 +18,14 @@ I build web platforms for real users, from campus tools to hackathon projects.
 </div>
 
 <br>
+
+## About
+
+I'm a Computer Science undergraduate at **IIIT Kottayam** (Class of 2028) who likes turning real problems into working software. Most of what I build starts with something that was annoying people around me, like paper mess coupons, scattered fixtures or noisy issue trackers, and ends as a product they use every day.
+
+I'm most comfortable on the backend: designing APIs, modelling data in PostgreSQL, and getting authentication, validation and access control right. I care about the details that make a system dependable, such as idempotent jobs, encrypted tokens and sensible rate limits. I also enjoy the full stack, and I take hackathon projects from idea to something people can actually try.
+
+Alongside building, I keep my fundamentals sharp with data structures and algorithms.
 
 ## Selected work
 
