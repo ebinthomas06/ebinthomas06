@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&duration=3000&pause=1500&color=3B82F6&center=true&vCenter=true&width=600&height=60&lines=Ebin+Thomas" alt="Ebin Thomas">
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=Full-stack+developer;Backend+engineering;Building+things+people+actually+use" alt="Tagline">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=Full-stack+developer;Building+things+people+actually+use" alt="Tagline">
 
 <br>
 
@@ -17,7 +17,6 @@ I build web platforms for real users, from campus tools to hackathon projects.
 <br>
 
 <a href="https://linkedin.com/in/ebin-thomas"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://leetcode.com/u/ebin10"><img src="https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"></a>
 <a href="mailto:ebinthomas1810@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
@@ -99,7 +98,11 @@ I build web platforms for real users, from campus tools to hackathon projects.
 <br>
 
 <div align="center">
-  <sub>Open to open-source contributions, hackathons and interesting collaborations.</sub>
+
+**Open to Summer 2027 AI/ML internships and research collaborations.**
+
+<a href="mailto:ebinthomas1810@gmail.com">Email me</a> · <a href="https://linkedin.com/in/ebin-thomas">Connect on LinkedIn</a>
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:3B82F6,100:0F172A&section=footer&reversal=true" alt="">
