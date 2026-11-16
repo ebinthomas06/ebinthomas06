@@ -36,15 +36,15 @@ I build web platforms for real users, from campus tools to hackathon projects.
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://feaston.iiitkottayam.ac.in">FeastOn</a></h3>
-      <sub>Digital mess coupon system</sub>
-      <p>Used by <b>3,000+ students</b> at IIIT Kottayam. Google OAuth, role-based access for students, admins and volunteers, and QR-scan attendance.</p>
+      <sub>Digital mess coupon system · Team project</sub>
+      <p>Co-architected with a team and used by <b>3,000+ students</b> at IIIT Kottayam. I worked on Google OAuth, role-based access for students, admins and volunteers, and QR-scan attendance.</p>
       <sub><code>React</code> <code>Express</code> <code>Node.js</code> <code>PostgreSQL</code></sub>
       <br><sub><a href="https://feaston.iiitkottayam.ac.in">Live</a> · <a href="https://github.com/ebinthomas06/FeastOn">Source</a></sub>
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://super-league.pages.dev">Super League</a></h3>
-      <sub>Campus football platform</sub>
-      <p>Fixtures, standings, player profiles and fantasy predictions. I'm on the backend core team, building validated and rate-limited APIs.</p>
+      <sub>Campus football platform · Team project</sub>
+      <p>Fixtures, standings, player profiles and fantasy predictions, built by a team. I'm on the backend core team, building validated and rate-limited APIs.</p>
       <sub><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code></sub>
       <br><sub><a href="https://super-league.pages.dev">Live</a> · <a href="https://github.com/ebinthomas06/super-league">Source</a></sub>
     </td>
@@ -102,7 +102,7 @@ I build web platforms for real users, from campus tools to hackathon projects.
 
 <div align="center">
 
-**Open to Summer 2027 AI/ML internships and research collaborations.**
+**Open to Summer 2027 software engineering internships.**
 
 <a href="mailto:ebinthomas1810@gmail.com">Email me</a> · <a href="https://www.linkedin.com/in/ebin-thomas-4a7452326/">Connect on LinkedIn</a>
 
