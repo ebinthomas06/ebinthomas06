@@ -93,8 +93,8 @@ I build web platforms for real users, from campus tools to hackathon projects.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ebinthomas06&show_icons=true&hide_border=true&bg_color=0F172A&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&border_radius=10" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebinthomas06&layout=compact&hide_border=true&bg_color=0F172A&title_color=3B82F6&text_color=C9D1D9&border_radius=10" alt="Top languages">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ebinthomas06&theme=github_dark" alt="GitHub stats">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ebinthomas06&theme=github_dark" alt="Most used languages">
 
 </div>
 
